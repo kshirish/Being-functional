@@ -1,0 +1,25 @@
+{
+  "name": "fp",
+  "version": "1.0.0",
+  "description": "functional programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshirish/Being-functional.git"
+  },
+  "keywords": [
+    "functional"
+  ],
+  "author": "kshirish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshirish/Being-functional/issues"
+  },
+  "homepage": "https://github.com/kshirish/Being-functional#readme",
+  "dependencies": {
+    "fn.js": "^0.8.1"
+  }
+}
