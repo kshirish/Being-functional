@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/kshirish/Being-functional#readme",
   "dependencies": {
-    "fn.js": "^0.8.1"
+    "fn.js": "^0.8.1",
+    "functional.js": "^0.6.16"
   }
 }
